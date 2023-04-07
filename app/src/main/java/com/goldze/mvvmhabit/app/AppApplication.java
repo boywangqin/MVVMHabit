@@ -1,10 +1,11 @@
 package com.goldze.mvvmhabit.app;
 
-import com.goldze.mvvmhabit.BuildConfig;
+
 import com.goldze.mvvmhabit.R;
 import com.goldze.mvvmhabit.ui.login.LoginActivity;
 import com.squareup.leakcanary.LeakCanary;
 
+import androidx.databinding.library.BuildConfig;
 import me.goldze.mvvmhabit.base.BaseApplication;
 import me.goldze.mvvmhabit.crash.CaocConfig;
 import me.goldze.mvvmhabit.utils.KLog;
