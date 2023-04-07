@@ -29,6 +29,9 @@
         <activity android:name=".ui.main.DemoActivity"></activity>
         <activity android:name=".ui.tab_bar.activity.TabBarActivity"></activity>
         <activity android:name=".ui.viewpager.activity.ViewPagerActivity"></activity>
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="f82bdb07008ef7a11bbdc51de1abcde8"/>
     </application>
 
 </manifest>
